@@ -1,10 +1,10 @@
 # LEMP
 ## version
-PHP       8.0.27
-Composer  2.5.1
-Laravel   9.48.0
-Nginx     1.23.3
-MySQL     5.7.40
+PHP       8.0.27  
+Composer  2.5.1  
+Laravel   9.48.0  
+Nginx     1.23.3  
+MySQL     5.7.40  
 
 開発時にはversionに留意
 
