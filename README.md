@@ -15,5 +15,6 @@ MySQL     5.7.40
   https://qiita.com/ryo-kozin/items/3b47ee0ceb310278ac3a  
 * PHPコンテナ内にnode.jsをインストール場合  
   https://zukucode.com/2019/06/docker-laravel-nodejs.html
-
+* Vue導入時、Vue-loaderのバージョンに注意  
+  https://stackoverflow.com/questions/69631437/error-cannot-find-module-webpack-lib-rules-descriptiondatamatcherruleplugin-r
 
